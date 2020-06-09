@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46acd04e200a9e04f955059852ab77b8, type: 3}
+  m_Name: CardData
+  m_EditorClassIdentifier: 
+  cardPrefabs:
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  - {fileID: 4235242028995800698, guid: 5fa574c69cc7b46458595cdc30698846, type: 3}
+  titles:
+  - Migration
+  - Gathering
+  - Trade
+  - Growth
+  - Diplomacy
+  - New Age
+  - Reproduction
+  - Water Production
+  - Food Production
+  - Wood Production
+  - Stone Production
+  - Iron Production
+  - Production
+  texts:
+  - Move your colonists, then build villages adjacent to your colonists.
+  - Give the king's order for a district and get resources from there OR Abolish all
+    orders and get golds.
+  - Get 4 golds. In addition, you can trade up to two resources.
+  - You can purchase up to two cards from the shop.
+  - You can copy the effect one of your opponnent's top card on the discard pile.
+  - Get back all your cards from discard pile, and get 0.3 gold for each card including
+    this card. In addition, you can put a colonist to center tile by paying 1 food
+    and 1 wood.
+  - You can put new colonists in your cities, each for 1 food, 1 wood. OR, you can
+    5 golds + 1 gold for each colonist on the board
+  - Produce water from all your villages.
+  - Produce food from all your villages.
+  - Produce wood from all your villages.
+  - Produce stone from all your villages.
+  - Produce iron from all your villages.
+  - Produce a resource from all your villages.
+  frontFaces:
+  - {fileID: 21300000, guid: 8344d67547877924bb282597587a3a18, type: 3}
+  - {fileID: 21300000, guid: 246225f6e395bc64cb155f0af7bc02cd, type: 3}
+  - {fileID: 21300000, guid: e088e00925a285e4a9196f2fcb2c4d85, type: 3}
+  - {fileID: 21300000, guid: 4add51090b401d14e9fc7c1af0fe51c6, type: 3}
+  - {fileID: 21300000, guid: 507bdb9789611724badf7c88f64918b5, type: 3}
+  - {fileID: 21300000, guid: 74d9857a29ce7c04da7bbfa87c6d0681, type: 3}
+  - {fileID: 21300000, guid: 2e40b11b58bf3754b8a4a2804c96638e, type: 3}
+  - {fileID: 21300000, guid: 7114bcc48a69b094c914cc2b936511bb, type: 3}
+  - {fileID: 21300000, guid: 9a90123d6f4e9004b99f8a84fd4cfbb8, type: 3}
+  - {fileID: 21300000, guid: 5e3b381158b1eff46b844f18cba0e76d, type: 3}
+  - {fileID: 21300000, guid: 33ad8e5c1cf06b847800b619409b3b9a, type: 3}
+  - {fileID: 21300000, guid: 5a60a261aa6e7794ab0be8bb4b2465e9, type: 3}
+  - {fileID: 21300000, guid: 9a90123d6f4e9004b99f8a84fd4cfbb8, type: 3}
+  costs: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000

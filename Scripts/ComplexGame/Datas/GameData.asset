@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db0db3675bb64df4a9cdad19050c1dc5, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  playerCount: 4
+  defaultMoveCapacity: 6
+  deckSize: 6
+  resourceCapacity: 12
+  resourceCount: 8
+  defaultResources: 04000000010000000200000001000000010000000100000001000000
+  defaultResourceGoldCosts: ffffffff030000000400000005000000060000000700000001000000
+  playerHeight: 10
+  explorerInteractPrefab: {fileID: 1948403618786070, guid: d17dbb35df2d15e48851d6471dea376a,
+    type: 3}
+  gatheringCardOption1Image: {fileID: 21300000, guid: bb4d5dc1a44037c42ab95be0f5751582,
+    type: 3}
+  gatheringCardOption1Text: Activate Regions
+  gatheringCardOption2Image: {fileID: 21300000, guid: 62d8be128ab305146b2f9189b5fda1e0,
+    type: 3}
+  gatheringCardOption2Text: Deactivate Regions
+  reproductionCardGoldPerExplorer: 1
+  reproductionCardOption1Image: {fileID: 21300000, guid: cb367f93c67cf1645ab1b0821bdc5061,
+    type: 3}
+  reproductionCardOption1Text: Place Colonist
+  reproductionCardOption2Image: {fileID: 21300000, guid: f0f50a29bc9a7c84da238c4bf11524b2,
+    type: 3}
+  reproductionCardOption2Text: Collect Gold
+  tradeCardGoldGain: 4

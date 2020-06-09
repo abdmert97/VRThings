@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: b179fc5d7310b02449549fd82542715d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - desertTile: {fileID: 1866537381318510, guid: ce6f2f64a6f1845499e520cdede3a885,
+      type: 3}
+  - forestTile: {fileID: 1928123463396898, guid: 71be69e7a312bc844ad384574d3624fe,
+      type: 3}
+  - pastureTile: {fileID: 1034398648363416, guid: 724d1dba07b41c34282d4078db00274d,
+      type: 3}
+  - hillsTile: {fileID: 1712155488500880, guid: faf4b4ec0cbbb3840a5ba44685c18d99,
+      type: 3}
+  - mountainTile: {fileID: 1434187378111682, guid: 32b583582798a5f4cbbbcaf093e364e0,
+      type: 3}
+  - fieldsTile: {fileID: 1708391978254754, guid: e4113aa56a03cf64eba4ae136ef1ac74,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
